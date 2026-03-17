@@ -1,0 +1,122 @@
+[
+    {
+        "$type": "normal",
+        "ID": "escape_from_deltabreakout_exchange1",
+        "Trader": "5a7c2eca46aef81a7ca2145d",
+        "Item": [
+            {
+                "_id": "escape_from_deltabreakout_exchange1",
+                "_tpl": "6570265f1419851aef03e739",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 2,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            },
+            {
+                "_id": "escape_from_deltabreakout_exchange1_ammo",
+                "_tpl": "6570265f1419851aef03e739",
+                "parentId": "escape_from_deltabreakout_exchange1",
+                "slotId": "cartridges",
+                "location": 0,
+                "upd": {
+                    "StackObjectsCount": 100
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "奥莉薇娅香槟": 1
+        },
+        "TrustLevel": 4,
+        "isWeapon": false
+    },
+    //三角洲显卡转显卡
+    {
+        "$type": "normal",
+        "ID": "escape_from_deltabreakout_exchange2",
+        "Trader": "5a7c2eca46aef81a7ca2145d",
+        "Item": [
+            {
+                "_id": "escape_from_deltabreakout_exchange2",
+                "_tpl": "57347ca924597744596b4e71",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 20,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 99999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "显卡": 1
+        },
+        "TrustLevel": 1,
+        "isWeapon": false
+    },
+    //大妈 THICC
+    {
+        "$type": "normal",
+        "ID": "escape_from_deltabreakout_exchange3",
+        "Trader": "54cb57776803fa99248b456e",
+        "Item": [
+            {
+                "_id": "escape_from_deltabreakout_exchange3",
+                "_tpl": "5c0a840b86f7742ffa4f2482",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 1,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "医疗机械人": 2,
+            "自动体外除颤器":4,
+            "复苏呼吸机":1,
+            "ECMO":2,
+            "呼吸机":6
+        },
+        "TrustLevel": 4,
+        "isWeapon": false
+    },    
+    //美商 THICC
+    {
+        "$type": "normal",
+        "ID": "escape_from_deltabreakout_exchange4",
+        "Trader": "5935c25fb3acc3127c3d8cd9",
+        "Item": [
+            {
+                "_id": "escape_from_deltabreakout_exchange4",
+                "_tpl": "5c0a840b86f7742ffa4f2482",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 1,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "实验数据":20,
+            "量子存储":30,
+            "Alpha脑机实验数据":10,
+            "绝密服务器":2
+        },
+        "TrustLevel": 4,
+        "isWeapon": false
+    }    
+]

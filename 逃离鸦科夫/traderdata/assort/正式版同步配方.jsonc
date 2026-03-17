@@ -1,0 +1,54 @@
+[
+    //私酒
+    {
+        "$type": "normal",
+        "ID": "nethercrow_backport_trader1",
+        "Trader": "5c0647fdd443bc2504c2d371",
+        "Item": [
+            {
+                "_id": "nethercrow_backport_trader1",
+                "_tpl": "5d1b376e86f774252519444e",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 1,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 99999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "57347baf24597738002c6178": 2
+        },
+        "TrustLevel": 3,
+        "isWeapon": false
+    },
+    //显卡
+    {
+        "$type": "normal",
+        "ID": "nethercrow_backport_trader2",
+        "Trader": "5a7c2eca46aef81a7ca2145d",
+        "Item": [
+            {
+                "_id": "nethercrow_backport_trader2",
+                "_tpl": "57347ca924597744596b4e71",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 1,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 99999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "57347baf24597738002c6178": 4
+        },
+        "TrustLevel": 3,
+        "isWeapon": false
+    }    
+]

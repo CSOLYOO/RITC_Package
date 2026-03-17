@@ -25,18 +25,15 @@
         "RagfairType": "5b47574386f77428ca22b2f0",
         "StaticLoot": true,
         "CustomLoot": true,
-        "StaticLootDivisor": 15,
+        "StaticLootDivisor": 12,
         "MapLoot": true,
-        "MapLootDivisor": 15,
+        "MapLootDivisor": 12,
         "CanFindInRaid": true,
         "BlackListType": 42,
         "FixType": [
             "Mods"
         ],
-        "LootList": [
-            "5734773724597737fd047c14"
-        ],
-        "CustomMapLootTarget": "5734773724597737fd047c14",
-        "CustomStaticLootTarget": "5734773724597737fd047c14"
+        "CustomMapLootTarget": "57347d8724597744596b4e76",
+        "CustomStaticLootTarget": "57347d8724597744596b4e76"
     }
 }

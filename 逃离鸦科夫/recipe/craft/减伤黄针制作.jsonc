@@ -1,0 +1,32 @@
+{
+    //普通配方
+    "$type": "normal",
+    //配方id, 全局唯一
+    "ID": "nethercrow合成_黄针",
+    //配方需要的藏身处区域
+    "Area": 7,
+    //需要的区域等级
+    "AreaLevel": 3,
+    //输出产物
+    "Output": "nethercrow_减伤黄针",
+    //输出数量
+    "OutputCount": 5,
+    //制作时间, 秒为单位
+    "Time": 3600,
+    //是否需要全程通电
+    "NeedFuel": true,
+    //配方需求
+    //结构相同, 只是定义不同
+    "Require": {
+        "Tool": {
+            "6389c8c5dbfd5e4b95197e6b": 1,
+            "5b4335ba86f7744d2837a264": 1
+        },
+        "Item": {
+            "5ed515ece452db0eb56fc028": 2,
+            "5c0e530286f7747fa1419862": 5,
+            "60b0f93284c20f0feb453da7": 4,
+            "5bc9b9ecd4351e3bac122519": 1
+        }
+    }
+}

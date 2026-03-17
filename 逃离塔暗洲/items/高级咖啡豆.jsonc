@@ -24,9 +24,9 @@
         "RagfairType": "5b47574386f77428ca22b2f1",
         "StaticLoot": true,
         "CustomLoot": true,
-        "StaticLootDivisor": 30,
+        "StaticLootDivisor": 12,
         "MapLoot": true,
-        "MapLootDivisor": 30,
+        "MapLootDivisor": 12,
         "CanFindInRaid": true,
         "BlackListType": 42,
         "FixType": [

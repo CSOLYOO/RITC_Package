@@ -1,0 +1,122 @@
+{
+    "_id": "nethercrow_减伤黄针",
+    "_targetid": "5c0e530286f7747fa1419862",
+    "_name": "Propital P22 Merged",
+    "_parent": "5448f3a64bdc2d60728b456a",
+    "_props": {
+        "StimulatorBuffs": "BuffsPropitalMix"
+    },
+    "_customprops": {
+        //自定义物品类型, 这里是buff物品类型
+        //通常是注射器
+        "$type": "buff",
+        //物品名, 短名, 介绍, 必填
+        "Name": "Propital Merged Mix",
+        "ShortName": "Propital Mix",
+        "Description": "由Propital和P22为主要成分，加入了更多添加剂，效果更强，后劲也更大。",
+        //基准价格, 也就是手册价格
+        "DefaultPrice": 150000,
+        "RagfairPrice": 0,  
+        //跳蚤市场/手册分类标签, 必填
+        "RagfairType": "5b47574386f77428ca22b33a",
+        "CanSellOnRagfair": false,
+        "CanFindInRaid": true,        
+        "CustomLoot": true,
+
+        "MapLoot": true,
+        "CustomMapLootTarget": "544fb3f34bdc2d03748b456a",
+        "MapLootDivisor": 32,
+
+        "StaticLoot": true,
+        "CustomStaticLootTarget": "544fb3f34bdc2d03748b456a",
+        "StaticLootDivisor": 12,
+        "isMoney": false,
+        //黑名单类型, 使用位运算实现, 0表示none, 1表示空投, 2表示PMC, 4表示Scav宝箱, 8表示黑商, 16表示邪教圈, 32表示日常任务奖励, 64表示全局黑名单
+        //此处为2
+        "BlackListType": 42,
+        //Buff组数据, 和原版定义相同
+        "BuffValue": [
+            {
+                "AbsoluteValue": true,
+                "BuffType": "HealthRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "SkillName": "",
+                "Value": 2
+            },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "SkillName": "Metabolism",
+                "Value": 20
+            },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "SkillName": "Health",
+                "Value": 20
+            },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "SkillName": "Vitality",
+                "Value": 20
+            },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "HandsTremor",
+                "Chance": 0.5,
+                "Delay": 270,
+                "Duration": 15,
+                "SkillName": "",
+                "Value": 0
+            },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "EnergyRate",
+                "Chance": 1,
+                "Delay": 270,
+                "Duration": 200,
+                "SkillName": "",
+                "Value": -0.25
+            },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "HydrationRate",
+                "Chance": 1,
+                "Delay": 270,
+                "Duration": 200,
+                "SkillName": "",
+                "Value": -0.3
+            },        
+            {
+                "AbsoluteValue": false,
+                "BuffType": "DamageModifier",
+                "Chance": 1,
+                "Delay": 0,
+                "Duration": 300,
+                "SkillName": "",
+                "Value": -0.15
+            },                 
+            {
+                "AbsoluteValue": true,
+                "BuffType": "QuantumTunnelling",
+                "Chance": 0.5,
+                "Delay": 270,
+                "Duration": 15,
+                "SkillName": "",
+                "Value": 0
+            }
+        ]
+    }    
+}

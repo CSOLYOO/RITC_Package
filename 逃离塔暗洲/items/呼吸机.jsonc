@@ -19,7 +19,7 @@
         "Name": "呼吸机",
         "ShortName": "呼吸机",
         "Description": "医疗道具，能够协助或完全替代患者呼吸，通过向患者提供氧气和控制呼吸频率与压力，以改善呼吸功能和维持生命。",
-        "DefaultPrice": 447606,
+        "DefaultPrice": 800000,
         "RagfairPrice": 0,  
         "RagfairType": "5b47574386f77428ca22b2f3",
         "StaticLoot": true,
