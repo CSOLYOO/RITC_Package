@@ -1,0 +1,39 @@
+{
+    "_id": "东楼经理室",
+    "_targetid": "5c94bbff86f7747ee735c08f",
+    "_name": "东楼经理室",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 1,
+        "Height": 1,
+        "Weight": 0.1,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "card_zero.bundle",
+            "rcid": ""
+        },
+        "MaximumNumberOfUsage": 20
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "东楼经理室",
+        "ShortName": "东楼经理",
+        "Description": "东楼经理室。",
+        "DefaultPrice": 3714480,
+        "RagfairPrice": 0,  
+        "RagfairType": "5c518ed586f774119a772aee",
+        "StaticLoot": true,
+        "StaticLootDivisor": 3,
+        "CustomLoot": true,
+        "MapLoot": true,
+        "MapLootDivisor": 6,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "CustomMapLootTarget": "5c94bbff86f7747ee735c08f",
+        "CustomStaticLootTarget": "5c94bbff86f7747ee735c08f"
+    }
+}

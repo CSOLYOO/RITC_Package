@@ -1,0 +1,38 @@
+{
+    "_id": "高级咖啡豆",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "高级咖啡豆",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 1,
+        "Height": 2,
+        "Weight": 1.0,
+        "CanSellOnRagfair": false,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "coffee_guaer.bundle",
+            "rcid": ""
+        }
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "高级咖啡豆",
+        "ShortName": "HQ咖啡",
+        "Description": "高级咖啡豆选自阿萨拉地区优质咖啡树，经过精心烘焙和筛选，具有独特风味和香气，为咖啡爱好者提供纯正且丰富的口感体验。",
+        "DefaultPrice": 400000,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b2f1",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 30,
+        "MapLoot": true,
+        "MapLootDivisor": 30,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "CustomMapLootTarget": "6389c6463485cf0eeb260715",
+        "CustomStaticLootTarget": "6389c6463485cf0eeb260715"
+    }
+}

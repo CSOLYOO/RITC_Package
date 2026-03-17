@@ -1,0 +1,41 @@
+{
+    "_id": "量子存储",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "量子存储",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 1,
+        "Height": 1,
+        "Weight": 0.1,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "quantum_storage.bundle",
+            "rcid": ""
+        }
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "量子存储",
+        "ShortName": "量子存储",
+        "Description": "情报道具，哈夫克公司基于量子存储技术开发的小型便携式存储单元，能够实现极高的传输速率和TB级的数据。",
+        "DefaultPrice": 277293,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b341",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 4,
+        "MapLoot": true,
+        "MapLootDivisor": 4,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "LootList": [
+            "57347baf24597738002c6178"
+        ],
+        "CustomMapLootTarget": "57347baf24597738002c6178",
+        "CustomStaticLootTarget": "57347baf24597738002c6178"
+    }
+}

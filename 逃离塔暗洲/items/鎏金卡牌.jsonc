@@ -1,0 +1,39 @@
+{
+    "_id": "鎏金卡牌",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "鎏金卡牌",
+    "_props": {
+        "BackgroundColor": "yellow",
+        "Width": 1,
+        "Height": 1,
+        "Weight": 0.01,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "gilded_card.bundle",
+            "rcid": ""
+        },
+        "VanillaDefaultPrice": 200000
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "鎏金卡牌",
+        "ShortName": "金卡",
+        "Description": "熠熠生辉的鎏金卡牌。",
+        "DefaultPrice": 200000,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b2f1",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 3,
+        "MapLoot": true,
+        "MapLootDivisor": 3,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "CustomMapLootTarget": "62a09cb7a04c0c5c6e0a84f8",
+        "CustomStaticLootTarget": "62a09cb7a04c0c5c6e0a84f8"
+    }
+}

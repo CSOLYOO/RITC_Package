@@ -1,0 +1,42 @@
+{
+    "_id": "鱼子酱",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "鱼子酱",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 1,
+        "Height": 1,
+        "Weight": 0.1,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "caviar.bundle",
+            "rcid": ""
+        },
+        "VanillaDefaultPrice": 175607
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "“钻石”鱼子酱",
+        "ShortName": "鱼子酱",
+        "Description": "“钻石”鱼子酱因其产量稀少且仅使用顶级鲟鱼出产而闻名世间，它已不仅是一道美食，更是一种身份的象征，常出现在顶级餐厅和奢华场合。",
+        "DefaultPrice": 235607,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b2f0",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 15,
+        "MapLoot": true,
+        "MapLootDivisor": 15,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "LootList": [
+            "5734773724597737fd047c14"
+        ],
+        "CustomMapLootTarget": "5734773724597737fd047c14",
+        "CustomStaticLootTarget": "5734773724597737fd047c14"
+    }
+}

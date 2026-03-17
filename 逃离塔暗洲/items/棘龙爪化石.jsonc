@@ -1,0 +1,41 @@
+{
+    "_id": "棘龙爪化石",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "棘龙爪化石",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 2,
+        "Height": 1,
+        "Weight": 0.9,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "fossil.bundle",
+            "rcid": ""
+        }
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "棘龙爪化石",
+        "ShortName": "化石",
+        "Description": "棘龙的爪子，是迄今为止阿萨拉档案中记载的最大的已知恐龙之一。",
+        "DefaultPrice": 350040,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b2f1",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 2,
+        "MapLoot": true,
+        "MapLootDivisor": 3,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "LootList": [
+            "5e54f62086f774219b0f1937"
+        ],
+        "CustomMapLootTarget": "5e54f62086f774219b0f1937",
+        "CustomStaticLootTarget": "5e54f62086f774219b0f1937"
+    }
+}

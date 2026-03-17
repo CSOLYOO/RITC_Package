@@ -1,0 +1,42 @@
+{
+    "_id": "名贵机械表",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "名贵机械表",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 1,
+        "Height": 1,
+        "Weight": 0.1,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "mechine_watch.bundle",
+            "rcid": ""
+        },
+        "VanillaDefaultPrice": 212469
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "名贵机械表",
+        "ShortName": "机械表",
+        "Description": "这块金质名贵机械表，镶钻表盘璀璨夺目，精细机芯运转精准。佩戴它，彰显您非凡品味与优雅气质。",
+        "DefaultPrice": 242469,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b2f1",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 2,
+        "MapLoot": true,
+        "MapLootDivisor": 4,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "LootList": [
+            "59faf7ca86f7740dbe19f6c2"
+        ],
+        "CustomMapLootTarget": "59faf7ca86f7740dbe19f6c2",
+        "CustomStaticLootTarget": "59faf7ca86f7740dbe19f6c2"
+    }
+}

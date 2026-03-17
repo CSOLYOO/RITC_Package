@@ -1,0 +1,41 @@
+{
+    "_id": "实验数据",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "实验数据",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 1,
+        "Height": 1,
+        "Weight": 0.1,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "testing_data.bundle",
+            "rcid": ""
+        }
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "实验数据",
+        "ShortName": "实验数据",
+        "Description": "情报道具，实验数据。",
+        "DefaultPrice": 240258,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b341",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 2,
+        "MapLoot": true,
+        "MapLootDivisor": 4,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "LootList": [
+            "590c621186f774138d11ea29"
+        ],
+        "CustomMapLootTarget": "590c621186f774138d11ea29",
+        "CustomStaticLootTarget": "590c621186f774138d11ea29"
+    }
+}

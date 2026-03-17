@@ -1,0 +1,41 @@
+{
+    "_id": "万足金条",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "万足金条",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 1,
+        "Height": 2,
+        "Weight": 4.2,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "gold_block.bundle",
+            "rcid": ""
+        }
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "万足金条",
+        "ShortName": "金条",
+        "Description": "一整根金条，可以拿去卖钱。",
+        "DefaultPrice": 3339030,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b2f1",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 4,
+        "MapLoot": true,
+        "MapLootDivisor": 4,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "LootList": [
+            "59faff1d86f7746c51718c9c"
+        ],
+        "CustomMapLootTarget": "59faff1d86f7746c51718c9c",
+        "CustomStaticLootTarget": "59faff1d86f7746c51718c9c"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "manifest": [
+        {
+			"key": "RopesContainer.bundle",
+			"dependencyKeys": [
+            ]
+        },
+        {
+			"key": "ab_helmet_f70.bundle",
+			"dependencyKeys": [
+            ]
+        },
+        {
+			"key": "item_coeus.bundle",
+			"dependencyKeys": [
+            ]
+        }
+    ]
+
+}

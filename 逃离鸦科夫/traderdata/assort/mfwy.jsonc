@@ -1,0 +1,307 @@
+[
+    {
+        "$type": "normal",
+        "ID": "nethercrow_shop_gunfight_gift1",
+        "Trader": "Persicaria",
+        "Item": [
+            {
+                "_id": "nethercrow_shop_gunfight_gift1",
+                "_tpl": "普通升级抽奖箱",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 999999,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "6656560053eaaa7a23349c86": 1
+        },
+        "TrustLevel": 1,
+        "isWeapon": false
+    },
+    {
+        "$type": "normal",
+        "ID": "nethercrow_shop_gunfight_gift2",
+        "Trader": "Persicaria",
+        "Item": [
+            {
+                "_id": "nethercrow_shop_gunfight_gift2",
+                "_tpl": "稀有升级抽奖箱",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 999999,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "普通升级抽奖箱": 2
+        },
+        "TrustLevel": 1,
+        "isWeapon": false
+    },
+    {
+        "$type": "normal",
+        "ID": "nethercrow_shop_gunfight_gift3",
+        "Trader": "Persicaria",
+        "Item": [
+            {
+                "_id": "nethercrow_shop_gunfight_gift3",
+                "_tpl": "史诗升级抽奖箱",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 999999,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "稀有升级抽奖箱": 2
+        },
+        "TrustLevel": 1,
+        "isWeapon": false
+    },
+    {
+        "$type": "normal",
+        "ID": "nethercrow_shop_gunfight_gift4",
+        "Trader": "Persicaria",
+        "Item": [
+            {
+                "_id": "nethercrow_shop_gunfight_gift4",
+                "_tpl": "传奇升级抽奖箱",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 999999,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "史诗升级抽奖箱": 2
+        },
+        "TrustLevel": 1,
+        "isWeapon": false
+    },
+    {
+        "$type": "normal",
+        "ID": "nethercrow_shop_gunfight_gift5",
+        "Trader": "Persicaria",
+        "Item": [
+            {
+                "_id": "nethercrow_shop_gunfight_gift5",
+                "_tpl": "神话升级抽奖箱",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 999999,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "传奇升级抽奖箱": 2
+        },
+        "TrustLevel": 1,
+        "isWeapon": false
+    },
+    {
+        "$type": "normal",
+        "ID": "nethercrow_shop_gunfight_gift6",
+        "Trader": "Persicaria",
+        "Item": [
+            {
+                "_id": "nethercrow_shop_gunfight_gift6",
+                "_tpl": "神话升级抽奖箱",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 999999,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "传奇升级抽奖箱": 2
+        },
+        "TrustLevel": 1,
+        "isWeapon": false
+    },
+    {
+        "$type": "normal",
+        "ID": "nethercrow_shop_gunfight_gift7",
+        "Trader": "Persicaria",
+        "Item": [
+            {
+                "_id": "nethercrow_shop_gunfight_gift7",
+                "_tpl": "枪械武术升级礼盒",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 20,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "5449016a4bdc2d6f028b456f": 1145140
+        },
+        "TrustLevel": 1,
+        "isWeapon": false
+    },    
+    {
+        "$type": "normal",
+        "ID": "nethercrow_shop_gunfight_gift8",
+        "Trader": "Persicaria",
+        "Item": [
+            {
+                "_id": "nethercrow_shop_gunfight_gift8",
+                "_tpl": "枪械武术插槽礼盒",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 20,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "5449016a4bdc2d6f028b456f": 1919810
+        },
+        "TrustLevel": 1,
+        "isWeapon": false
+    },        
+    {
+        "$type": "normal",
+        "ID": "Mechanic_tank_1",
+        "Trader": "5a7c2eca46aef81a7ca2145d",
+        "Item": [
+            {
+                "_id": "Mechanic_tank_1",
+                "_tpl": "6570265f1419851aef03e739",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 3,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            },
+            {
+                "_id": "Mechanic_tank_1_ammo",
+                "_tpl": "59e690b686f7746c9f75e848",
+                "parentId": "Mechanic_tank_1",
+                "slotId": "cartridges",
+                "location": 0,
+                "upd": {
+                  "StackObjectsCount": 100
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "5d03794386f77420415576f5": 1
+        },
+        "TrustLevel": 1,
+        "isWeapon": false
+    },
+    {
+        "$type": "normal",
+        "ID": "Mechanic_tank_2",
+        "Trader": "5a7c2eca46aef81a7ca2145d",
+        "Item": [
+            {
+                "_id": "Mechanic_tank_2",
+                "_tpl": "657025ebc5d7d4cb4d078588",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 3,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            },
+            {
+                "_id": "Mechanic_tank_2_ammo",
+                "_tpl": "5c0d5e4486f77478390952fe",
+                "parentId": "Mechanic_tank_2",
+                "slotId": "cartridges",
+                "location": 0,
+                "upd": {
+                  "StackObjectsCount": 120
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "5d03794386f77420415576f5": 1
+        },
+        "TrustLevel": 1,
+        "isWeapon": false
+    },    
+    {
+        "$type": "normal",
+        "ID": "Mechanic_tank_3",
+        "Trader": "5a7c2eca46aef81a7ca2145d",
+        "Item": [
+            {
+                "_id": "Mechanic_tank_3",
+                "_tpl": "648984e3f09d032aa9399d53",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "BuyRestrictionMax": 3,
+                    "BuyRestrictionCurrent": 0,
+                    "StackObjectsCount": 999999,
+                    "UnlimitedCount": true
+                }
+            },
+            {
+                "_id": "Mechanic_tank_3_ammo",
+                "_tpl": "5efb0c1bd79ff02a1f5e68d9",
+                "parentId": "Mechanic_tank_3",
+                "slotId": "cartridges",
+                "location": 0,
+                "upd": {
+                  "StackObjectsCount": 20
+                }
+            }
+        ],
+        "DogTag": {},
+        "Barter": {
+            "57347ca924597744596b4e71": 1
+        },
+        "TrustLevel": 1,
+        "isWeapon": false
+    }    
+]

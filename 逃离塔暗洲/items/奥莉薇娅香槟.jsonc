@@ -1,0 +1,41 @@
+{
+    "_id": "奥莉薇娅香槟",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "奥莉薇娅香槟",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 1,
+        "Height": 2,
+        "Weight": 0.8,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "champagne.bundle",
+            "rcid": ""
+        }
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "奥莉薇娅香槟",
+        "ShortName": "香槟",
+        "Description": "是一种产自法国香槟地区的气泡酒，以其独特的口感和气泡而闻名，常被用于庆祝重要场合和佳节。",
+        "DefaultPrice": 640710,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b2f0",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 10,
+        "MapLoot": true,
+        "MapLootDivisor": 10,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "LootList": [
+            "5d403f9186f7743cac3f229b"
+        ],
+        "CustomMapLootTarget": "5d403f9186f7743cac3f229b",
+        "CustomStaticLootTarget": "5d403f9186f7743cac3f229b"
+    }
+}

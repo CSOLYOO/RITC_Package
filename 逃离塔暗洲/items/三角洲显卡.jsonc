@@ -1,0 +1,41 @@
+{
+    "_id": "显卡",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "显卡",
+    "_props": {
+        "BackgroundColor": "yellow",
+        "Width": 2,
+        "Height": 1,
+        "Weight": 1.4,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "gpu.bundle",
+            "rcid": ""
+        }
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "显卡",
+        "ShortName": "显卡",
+        "Description": "电子物品，计算机中一种专门处理图形数据的硬件设备，用于加速图形和影像的处理，包括3D图形渲染、视频解码和显示输出等功能，高端游戏电脑必备。",
+        "DefaultPrice": 640000,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b2ef",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 2,
+        "MapLoot": true,
+        "MapLootDivisor": 2,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "LootList": [
+            "57347ca924597744596b4e71"
+        ],
+        "CustomMapLootTarget": "57347ca924597744596b4e71",
+        "CustomStaticLootTarget": "57347ca924597744596b4e71"
+    }
+}

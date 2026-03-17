@@ -1,0 +1,41 @@
+{
+    "_id": "Alpha脑机实验数据",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "Alpha脑机实验数据",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 1,
+        "Height": 1,
+        "Weight": 0.1,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "alpha_data.bundle",
+            "rcid": ""
+        }
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "Alpha脑机实验数据",
+        "ShortName": "实验数据",
+        "Description": "丑陋的世界扭曲了本性善良、圣洁孤傲的王子，使其变成了行为莫测、播种混乱的渡鸦。他仇视哈夫克和G.T.1.，更痛恨阿萨拉皇室、阿萨拉卫队甚至是阿萨拉人。过去带给阿萨拉秩序、希望、欢乐的王子，如今所到之处，充斥着混乱、无序和令人不寒而栗的狂笑。当他“入驻”潮汐监狱后，一场震动哈夫克的暴动便在监狱中悄然酝酿！",
+        "DefaultPrice": 600000,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b341",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 6,
+        "MapLoot": true,
+        "MapLootDivisor": 6,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "LootList": [
+            "57347baf24597738002c6178"
+        ],
+        "CustomMapLootTarget": "57347baf24597738002c6178",
+        "CustomStaticLootTarget": "57347baf24597738002c6178"
+    }
+}

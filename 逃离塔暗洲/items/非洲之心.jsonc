@@ -1,0 +1,38 @@
+{
+    "_id": "非洲之心",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "非洲之心",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 1,
+        "Height": 1,
+        "Weight": 0.6,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "heart.bundle",
+            "rcid": ""
+        }
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "非洲之心",
+        "ShortName": "非洲之心",
+        "Description": "世界上最大的钻石，璀璨夺目，象征永恒的爱。",
+        "DefaultPrice": 13141314,
+        "RagfairPrice": 0,          
+        "RagfairType": "5b47574386f77428ca22b2f1",
+        "StaticLoot": true,
+        "StaticLootDivisor": 200,
+        "CustomLoot": true,
+        "MapLoot": true,
+        "MapLootDivisor": 200,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "CustomMapLootTarget": "5734758f24597738025ee253",
+        "CustomStaticLootTarget": "5734758f24597738025ee253"
+    }
+}

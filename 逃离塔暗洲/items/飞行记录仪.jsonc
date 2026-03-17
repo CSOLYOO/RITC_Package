@@ -1,0 +1,41 @@
+{
+    "_id": "飞行记录仪",
+    "_targetid": "59e3639286f7741777737013",
+    "_name": "飞行记录仪",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 3,
+        "Height": 2,
+        "Weight": 15,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "blackbox.bundle",
+            "rcid": ""
+        }
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "飞行记录仪",
+        "ShortName": "黑匣子",
+        "Description": "电子物品，飞行数据记录仪。",
+        "DefaultPrice": 3203775,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b341",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 4,
+        "MapLoot": true,
+        "MapLootDivisor": 8,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "LootList": [
+            "5c052f6886f7746b1e3db148"
+        ],
+        "CustomMapLootTarget": "5c052f6886f7746b1e3db148",
+        "CustomStaticLootTarget": "5c052f6886f7746b1e3db148"
+    }
+}

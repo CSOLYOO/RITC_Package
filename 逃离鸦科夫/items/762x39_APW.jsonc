@@ -1,0 +1,74 @@
+{
+    "_id": "128509df0df65f9826dc872a9acfea532c1f53c6_nethercrow_76239_APW",
+    "_targetid": "59e0d99486f7744a32234762",
+    "_name": "7.62x39毫米 AP(W) 钨芯实验弹 ",
+    "_props": {
+        "Name": "7.62x39毫米 AP(W) 钨芯实验弹",
+        "ShortName": "AP(W)",
+        "Description": "由某神秘东方大国提出弹药需求后的实验品之一，更大的装药与特产钨金属结合出了这种奇特而残忍的子弹。",
+        "Weight": 0.03,
+        "BackgroundColor": "violet",
+        "RagfairType": "5b47574386f77428ca22b33b",
+        "CanFindInRaid": false,
+        "CanSellOnRagfair": false,
+        "CustomLoot": false,
+        "CustomLootTarget": "59faff1d86f7746c51718c9c",
+        "isMoney": false,
+        "InitialSpeed": 875,
+        "BallisticCoeficient": 0.5,
+        "BulletMassGram": 7.9,
+        "BulletDiameterMilimeters": 7.92,
+        "Damage": 90,
+        "ammoAccr": 0,
+        "ammoRec": 20,
+        "ammoDist": 0,
+        "buckshotBullets": 0,
+        "casingName": "7.62x39 DIY SMK",
+        "ArmorDamage": 80,
+        "PenetrationPower": 53,
+        "PenetrationPowerDiviation": 2,
+        "PenetrationChance": 0.9,
+        "RicochetChance": 0.1,
+        "FragmentationChance": 0,
+        "MalfMisfireChance": 0.1834,
+        "DurabilityBurnModificator": 1.6,
+        "HeavyBleedingDelta": 0.5,
+        "LightBleedingDelta": 0.5,
+        "HeatFactor": 2.33,
+        "MalfFeedChance": 0.088,
+        "Prefab": {
+            "path": "assets/content/items/ammo/patrons/patron_762x39_bp.bundle",
+            "rcid": ""
+        },
+        "StackMaxSize": 70
+    },
+    "_customprops": {
+        //自定义物品类型, 这里是战利品类型
+        //通常是大部分普通物品的类型, 允许在战局内发现, 允许自动修复
+        "$type": "lootable",
+        //物品名, 短名, 介绍, 必填
+        "Name": "7.62x39毫米 AP(W) 钨芯实验弹",
+        "ShortName": "7.62x39 DIY SMK",
+        "Description": "由某神秘东方大国提出弹药需求后的实验品之一，更大的装药与特产钨金属结合出了这种奇特而残忍的子弹。",
+        //基准价格, 也就是手册价格
+        "DefaultPrice": 5000,
+        //跳蚤市场价格, 不存在时自动fallback到基准价格
+        "RagfairPrice": 0,  
+        //跳蚤市场/手册分类标签, 必填
+        "RagfairType": "5b47574386f77428ca22b33b",
+        //是否能在战局里找到
+        "CanFindInRaid": true,
+        //是否使用自定义战利品数据
+        "CustomLoot": false,
+        //是否视为自定义货币处理
+        "isMoney": false,
+        //是否添加到3x4任务(即收藏家的需求)
+        "addToKappa": false,
+        "BlackListType": 10,
+        //自动修复类型
+        "FixType": [
+            //Mods表示对槽位进行修复, 适用于荣誉展柜需要摆放的物品, 特殊装备, 配件, 耳机等
+            "Mods"
+        ]
+    }
+}

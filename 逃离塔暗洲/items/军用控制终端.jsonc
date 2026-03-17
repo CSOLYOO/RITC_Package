@@ -1,0 +1,43 @@
+
+
+{
+    "_id": "军用控制终端",
+    "_targetid": "59faff1d86f7746c51718c9c",
+    "_name": "军用控制终端",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 2,
+        "Height": 1,
+        "Weight": 0.1,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "military_control_terminal.bundle",
+            "rcid": ""
+        }
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "军用控制终端",
+        "ShortName": "控制终端",
+        "Description": "军用密钥，主要在极端天气和复杂网络下使用，破译机密设备。",
+        "DefaultPrice": 388595,
+        "RagfairPrice": 0,  
+        "RagfairType": "5b47574386f77428ca22b2ef",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 2,
+        "MapLoot": true,
+        "MapLootDivisor": 4,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "LootList": [
+            "5c052f6886f7746b1e3db148"
+        ],
+        "CustomMapLootTarget": "5c052f6886f7746b1e3db148",
+        "CustomStaticLootTarget": "5c052f6886f7746b1e3db148"
+    }
+}

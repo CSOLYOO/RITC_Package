@@ -1,0 +1,42 @@
+{
+    "_id": "法厄同之钟",
+    "_targetid": "59e3647686f774176a362507",
+    "_name": "法厄同之钟",
+    "_props": {
+        "BackgroundColor": "red",
+        "Width": 2,
+        "Height": 2,
+        "Weight": 3.0,
+        "CanSellOnRagfair": true,
+        "DiscardLimit": -1,
+        "Prefab": {
+            "path": "fetclock.bundle",
+            "rcid": ""
+        },
+        "VanillaDefaultPrice": 2400000
+    },
+    "_customprops": {
+        "$type": "lootable",
+        "Name": "法厄同之钟",
+        "ShortName": "末日钟",
+        "Description": "苏梅克的阴影始终萦绕在部分人的心底，他们畏惧那一日的到来，便以太阳之子法厄同的名称制作了这种特殊的“时钟”",
+        "DefaultPrice": 2400000,
+        "RagfairPrice": 0,  
+        "RagfairType": "59e3647686f774176a362507",
+        "StaticLoot": true,
+        "CustomLoot": true,
+        "StaticLootDivisor": 6,
+        "MapLoot": true,
+        "MapLootDivisor": 6,
+        "CanFindInRaid": true,
+        "BlackListType": 42,
+        "FixType": [
+            "Mods"
+        ],
+        "LootList": [
+            "59e3647686f774176a362507"
+        ],
+        "CustomMapLootTarget": "59e3647686f774176a362507",
+        "CustomStaticLootTarget": "59e3647686f774176a362507"
+    }
+}
