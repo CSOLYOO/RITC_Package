@@ -11,6 +11,16 @@
             ]
         },
         {
+			"key": "item_equipment_helmet_maska_1sh_vida.bundle",
+			"dependencyKeys": [
+            ]
+        },
+        {
+			"key": "item_equipment_helmet_maska_1sh_shield_vida.bundle",
+			"dependencyKeys": [
+            ]
+        },        
+        {
 			"key": "item_coeus.bundle",
 			"dependencyKeys": [
             ]

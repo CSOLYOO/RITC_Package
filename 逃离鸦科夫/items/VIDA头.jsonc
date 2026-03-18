@@ -1,0 +1,36 @@
+{
+    "_id": "VIDA头",
+    "_targetid": "5c0e874186f7745dc7616606",
+    "_name": "VIDA头",
+    "_props": {
+        "Prefab": {
+            "path": "item_equipment_helmet_maska_1sh_shield_vida.bundle",
+            "rcid": ""
+        }
+    },
+    "_customprops": {
+        //自定义物品类型, 这里是战利品类型
+        //通常是大部分普通物品的类型, 允许在战局内发现, 允许自动修复
+        "$type": "base",
+        //物品名, 短名, 介绍, 必填
+        "Name": "Maska 1Sсh头盔（Vida）",
+        "ShortName": "Maska 1Sch(V)",
+        "Description": "嘎嘎嘎",
+        //基准价格, 也就是手册价格
+        "DefaultPrice": 67397,
+        //跳蚤市场价格, 不存在时自动fallback到基准价格
+        "RagfairPrice": 0,  
+        //跳蚤市场/手册分类标签, 必填
+        "RagfairType": "5b47574386f77428ca22b330",
+        //是否能在战局里找到
+        "CanFindInRaid": false,
+        //是否使用自定义战利品数据
+        "CustomLoot": false,
+        //是否视为自定义货币处理
+        "isMoney": false,
+        //是否添加到3x4任务(即收藏家的需求)
+        "addToKappa": false,
+        "BlackListType": 33
+        //自动修复类型
+    }
+}

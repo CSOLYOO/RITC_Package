@@ -4,9 +4,9 @@
     "_name": "浮力补偿设备",
     "_props": {
         "BackgroundColor": "red",
-        "Width": 5,
+        "Width": 3,
         "Height": 4,
-        "Weight": 3,
+        "Weight": 20,
         "CanSellOnRagfair": true,
         "DiscardLimit": -1,
         "Prefab": {
@@ -19,7 +19,7 @@
         "Name": "浮力补偿设备",
         "ShortName": "B-Comp",
         "Description": "用于蛙人部队的潜泳设备，潜水员佩戴设备时可在水下/水面状态时灵活建立及调整浮力大小。",
-        "DefaultPrice": 6000000,
+        "DefaultPrice": 7500000,
         "RagfairPrice": 0,  
         "RagfairType": "5b47574386f77428ca22b2ef",
         "StaticLoot": true,
