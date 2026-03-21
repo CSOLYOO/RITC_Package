@@ -4,7 +4,7 @@
     "_name": "VIDA面罩",
     "_props": {
         "Prefab": {
-            "path": "item_equipment_helmet_maska_1sh_vida.bundle",
+            "path": "item_equipment_helmet_maska_1sh_shield_vida.bundle",
             "rcid": ""
         }
     },
@@ -13,7 +13,7 @@
         //通常是大部分普通物品的类型, 允许在战局内发现, 允许自动修复
         "$type": "fixed",
         //物品名, 短名, 介绍, 必填
-        "Name": "Maska-1SCh 面罩（Vida）",
+        "Name": "Maska-1Sch 面罩（Vida）",
         "ShortName": "1Sch面罩(V)",
         "Description": "嘎嘎",
         //基准价格, 也就是手册价格

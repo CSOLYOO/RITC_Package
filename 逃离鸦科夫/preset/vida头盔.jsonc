@@ -1,0 +1,38 @@
+{
+    "Name": "VIDA头",
+    "PresetName": "Default",
+    "IsBasePreset": true,
+    "ChangePresetName": false,
+    "SpawnInRaid": false,
+    "SpawnTarget": "5c091a4e0db834001d5addc8",
+    "Preset": [     
+        {
+            "_id": "VIDA头_本体",
+            "_tpl": "VIDA头"
+        },
+        {
+            "_id": "VIDA头_面罩",
+            "_tpl": "VIDA面罩",
+            "parentId": "VIDA头_本体",
+            "slotId": "mod_equipment"
+        },           
+        {
+            "_id": "VIDA头_头顶",
+            "_tpl": "6571133d22996eaf11088200",
+            "parentId": "VIDA头_本体",
+            "slotId": "Helmet_top"
+        },
+        {
+            "_id": "VIDA头_后颈",
+            "_tpl": "6571138e818110db4600aa71",
+            "parentId": "VIDA头_本体",
+            "slotId": "Helmet_back"
+        },
+        {
+            "_id": "VIDA头_护耳",
+            "_tpl": "657112fa818110db4600aa6b",
+            "parentId": "VIDA头_本体",
+            "slotId": "Helmet_ears"
+        }
+    ]
+}

@@ -1,12 +1,12 @@
 {
     "_id": "VIDA头",
-    "_targetid": "5c0e874186f7745dc7616606",
+    "_targetid": "5c091a4e0db834001d5addc8",
     "_name": "VIDA头",
     "_props": {
         "Prefab": {
-            "path": "item_equipment_helmet_maska_1sh_shield_vida.bundle",
+            "path": "item_equipment_helmet_maska_1sh_vida.bundle",
             "rcid": ""
-        }
+        }   
     },
     "_customprops": {
         //自定义物品类型, 这里是战利品类型
